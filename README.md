@@ -1,6 +1,9 @@
 # Ben kimim ?
 Selam ben Yiğit, genç ama kendimce önü açık bir gencim. Vibe-coding ve normal kodlama yapabiliyorum.<br>Ve bence vibe-coding eğer ki doğru ellerde olursa çok daha güzel işler çıkartabiliyor ne de olsa önemli olan fikir :)<br><br><br>Şu an üzerinde çalıştığım projeler: Minecraft sunucu yönetimi ve Java tabanlı özel eklenti (plugin) geliştirme süreçleri.<br><br>İş birliği yapmak istediğim konular: MQTT protokolü kullanan nesnelerin interneti (IoT) sistemleri veya kapsamlı mobil uygulama projeleri.<br><br>Yardım beklediğim konular: Endüstriyel otomasyon (PLC) sistemlerinin mobil cihazlarla daha akıcı entegrasyonu.<br><br>Şu an öğrendiğim şeyler: Java ekosistemindeki yeni mimariler ve PLC programlama tekniklerinde ileri düzey uygulamalar.<br><br>Bana şunları sorabilirsiniz: Minecraft sunucuları, Java eklentileri, mobil uygulamalar, MQTT ve endüstriyel otomasyon süreçleri.
 
+Benle alakalı daha çok bilgi alabilmek için :
+[![Portfolio](https://yigitportfolio.vercel.app/)
+
 
 ## Sosyal Medyalarım :
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/iamolmez) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamolmez) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:altineryigit@gmail.com) 
